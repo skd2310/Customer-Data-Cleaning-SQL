@@ -1,0 +1,101 @@
+customer_id,customer_name,email,city
+1,"  Rahul Sharma  ",rahul@gmail.com,Surat
+2,"PRIYA PATEL",PRIYA@GMAIL.COM,surat
+3,"  amit shah",amit@gmail.com,SURAT
+4,"Neha Mehta ",NEHA@GMAIL.COM,Mumbai
+5,"rohan joshi",rohan@gmail.com,mumbai
+6,"KARAN DESAI",karan@gmail.com,Ahmedabad
+7,"  Pooja Shah",pooja@gmail.com,AHMEDABAD
+8,"Vikas Patel  ",vikas@gmail.com,ahmedabad
+9,"ANITA MEHTA",anita@gmail.com,Surat
+10,"  Jay Patel  ",jay@gmail.com,SURAT
+11,"Riya Shah",riya@gmail.com,Mumbai
+12,"ARJUN DESAI",arjun@gmail.com,mumbai
+13,"Mehul Joshi ",mehul@gmail.com,Surat
+14,"  Sneha Patel",sneha@gmail.com,surat
+15,"NIKHIL SHAH",nikhil@gmail.com,AHMEDABAD
+16,"Kavya Mehta",kavya@gmail.com,Ahmedabad
+17,"  Amit Shah ",amit@gmail.com,surat
+18,"Rahul Sharma",rahul@gmail.com,SURAT
+19,"PRIYA PATEL  ",priya@gmail.com,Surat
+20,"rohan joshi",rohan@gmail.com,Mumbai
+21,"  Dev Patel",dev@gmail.com,Ahmedabad
+22,"MAYA SHAH",maya@gmail.com,AHMEDABAD
+23,"  Neel Mehta",neel@gmail.com,Surat
+24,"Isha Patel ",isha@gmail.com,surat
+25,"RAJ DESAI",raj@gmail.com,Mumbai
+26,"Komal Shah",komal@gmail.com,mumbai
+27,"  Yash Patel",yash@gmail.com,Surat
+28,"Tanya Mehta  ",tanya@gmail.com,SURAT
+29,"ROHIT SHAH",rohit@gmail.com,Ahmedabad
+30,"Priti Desai",priti@gmail.com,ahmedabad
+31,"  Sameer Patel",sameer@gmail.com,Mumbai
+32,"ANJALI SHAH",anjali@gmail.com,mumbai
+33,"Kunal Mehta ",kunal@gmail.com,Surat
+34,"  Nisha Patel",nisha@gmail.com,surat
+35,"HARSH DESAI",harsh@gmail.com,AHMEDABAD
+36,"Simran Shah",simran@gmail.com,Ahmedabad
+37,"  Manish Patel",manish@gmail.com,Surat
+38,"RINA MEHTA  ",rina@gmail.com,SURAT
+39,"AARAV SHAH",aarav@gmail.com,Mumbai
+40,"Payal Desai",payal@gmail.com,mumbai
+41,"  Varun Patel",varun@gmail.com,Ahmedabad
+42,"DIYA SHAH",diya@gmail.com,AHMEDABAD
+43,"Naman Mehta ",naman@gmail.com,Surat
+44,"  Ayesha Patel",ayesha@gmail.com,surat
+45,"VIVEK DESAI",vivek@gmail.com,Mumbai
+46,"Rashmi Shah",rashmi@gmail.com,mumbai
+47,"  Mohit Patel",mohit@gmail.com,Surat
+48,"SONAL MEHTA  ",sonal@gmail.com,SURAT
+49,"AKASH SHAH",akash@gmail.com,Ahmedabad
+50,"Bhavna Desai",bhavna@gmail.com,ahmedabad
+51,"  Rahul Sharma",rahul@gmail.com,surat
+52,"PRIYA PATEL",priya@gmail.com,SURAT
+53,"Amit Shah ",amit@gmail.com,Surat
+54,"  Neha Mehta",neha@gmail.com,mumbai
+55,"ROHAN JOSHI",rohan@gmail.com,MUMBAI
+56,"Karan Desai  ",karan@gmail.com,Ahmedabad
+57," Pooja Shah ",pooja@gmail.com,ahmedabad
+58,"Vikas Patel",vikas@gmail.com,SURAT
+59,"  Anita Mehta",anita@gmail.com,surat
+60,"JAY PATEL",jay@gmail.com,Mumbai
+61,"Riya Shah  ",riya@gmail.com,mumbai
+62,"  Arjun Desai",arjun@gmail.com,AHMEDABAD
+63,"MEHUL JOSHI",mehul@gmail.com,Surat
+64,"Sneha Patel",sneha@gmail.com,SURAT
+65,"  Nikhil Shah",nikhil@gmail.com,Ahmedabad
+66,"Kavya Mehta ",kavya@gmail.com,ahmedabad
+67,"AMIT SHAH",amit@gmail.com,SURAT
+68,"Rahul Sharma",rahul@gmail.com,Surat
+69,"Priya Patel  ",priya@gmail.com,surat
+70,"ROHAN JOSHI",rohan@gmail.com,mumbai
+71,"  Dev Patel",dev@gmail.com,AHMEDABAD
+72,"Maya Shah",maya@gmail.com,Ahmedabad
+73,"NEEL MEHTA",neel@gmail.com,SURAT
+74,"Isha Patel ",isha@gmail.com,Surat
+75,"  Raj Desai",raj@gmail.com,Mumbai
+76,"KOMAL SHAH",komal@gmail.com,mumbai
+77,"Yash Patel",yash@gmail.com,Ahmedabad
+78,"  Tanya Mehta",tanya@gmail.com,surat
+79,"ROHIT SHAH ",rohit@gmail.com,SURAT
+80,"Priti Desai",priti@gmail.com,ahmedabad
+81,"  Sameer Patel  ",sameer@gmail.com,Mumbai
+82,"ANJALI SHAH",anjali@gmail.com,MUMBAI
+83,"Kunal Mehta",kunal@gmail.com,Surat
+84,"  Nisha Patel",nisha@gmail.com,SURAT
+85,"HARSH DESAI ",harsh@gmail.com,Ahmedabad
+86,"Simran Shah",simran@gmail.com,ahmedabad
+87,"  Manish Patel",manish@gmail.com,Surat
+88,"RINA MEHTA",rina@gmail.com,surat
+89,"AARAV SHAH  ",aarav@gmail.com,Mumbai
+90,"Payal Desai",payal@gmail.com,mumbai
+91,"  Varun Patel",varun@gmail.com,Ahmedabad
+92,"DIYA SHAH",diya@gmail.com,AHMEDABAD
+93,"Naman Mehta ",naman@gmail.com,Surat
+94,"  Ayesha Patel",ayesha@gmail.com,surat
+95,"VIVEK DESAI",vivek@gmail.com,Mumbai
+96,"Rashmi Shah  ",rashmi@gmail.com,mumbai
+97,"  Mohit Patel",mohit@gmail.com,Surat
+98,"SONAL MEHTA",sonal@gmail.com,SURAT
+99,"Akash Shah ",akash@gmail.com,Ahmedabad
+100,"Bhavna Desai",bhavna@gmail.com,ahmedabad
